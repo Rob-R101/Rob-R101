@@ -1,7 +1,22 @@
-<h1 align="center" style="background-color: black; color: white; padding: 20px;">
+<h1 align="center">
   Hey, I'm Rob - Welcome to my GitHub profile!
   <img 
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
+  <img>
+  <p align="center">
+    <a href="https://www.codewars.com/users/Rob-R101" target="_blank" rel="noopener noreferrer"><img
+      src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" 
+      alt="Code War button"/>
+    </a>
+    <a href="https://robertroffey.uk" target="_blank" rel="noopener noreferrer"><img
+      src="https://img.shields.io/badge/My%20Website-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" 
+      alt="Robert Roffey's website button"/>
+    </a>
+    <a href="www.linkedin.com/in/rob-roffey" target="_blank" rel="noopener noreferrer"><img
+      src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
+      alt="LinkedIn button"/>
+    </a>
+  </p>
 </h1>
 - 👋 Hi, I’m @Rob-R101
 - 👀 I’m interested in learning to code, gaming and spending time with my children. :)
