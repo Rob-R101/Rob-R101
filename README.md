@@ -20,10 +20,10 @@
   <img src="https://komarev.com/ghpvc/?username=rob-r101&style=flat-square&color=orange" 
     alt="Views Counter"/>
     <br>
-    Hey, I'm Rob - Welcome to my GitHub profile!
+    Hey, I'm Rob - Welcome to my GitHub profile
   </p>
 </h1>
-- 👋 Hi, I’m @Rob-R101
+### 👨‍🦱 About Me:
 - 👀 I’m interested in learning to code, gaming and spending time with my children. :)
 - 🌱 I’m currently learning with LeWagon on a Full-Stack Software Developer course.
 - 💞️ I’m looking to collaborate on learning!
