@@ -1,6 +1,9 @@
-<img 
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
-
+<div align="center" style="background-color: black; color: white; padding: 20px;">
+  <h1> Hey, I'm Rob - Welcome to my GitHub profile!
+  </h1>
+  <img 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
+</div>
 - 👋 Hi, I’m @Rob-R101
 - 👀 I’m interested in learning to code, gaming and spending time with my children. :)
 - 🌱 I’m currently learning with LeWagon on a Full-Stack Software Developer course.
