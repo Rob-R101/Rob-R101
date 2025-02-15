@@ -1,5 +1,4 @@
 <h1 align="center">
-  Hey, I'm Rob - Welcome to my GitHub profile!
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
   <img>
@@ -20,6 +19,8 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=rob-r101&style=flat-square&color=orange" 
     alt="Views Counter"/>
+    <br>
+    Hey, I'm Rob - Welcome to my GitHub profile!
   </p>
 </h1>
 - 👋 Hi, I’m @Rob-R101
