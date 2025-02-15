@@ -4,18 +4,22 @@
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXo0MHYzNzlrYTk1cTZieWpnenV0czZ0aGhtaXJlZWoweGV2em9qZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="gif of character coding">
   <img>
   <p align="center">
-    <a href="https://www.codewars.com/users/Rob-R101" target="_blank" rel="noopener noreferrer"><img
+    <a href="https://www.codewars.com/users/Rob-R101"><img
       src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=white&style=for-the-badge" 
       alt="Code War button"/>
     </a>
-    <a href="https://robertroffey.uk" target="_blank" rel="noopener noreferrer"><img
+    <a href="https://robertroffey.uk"><img
       src="https://img.shields.io/badge/My%20Website-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" 
       alt="Robert Roffey's website button"/>
     </a>
-    <a href="www.linkedin.com/in/rob-roffey" target="_blank" rel="noopener noreferrer"><img
+    <a href="www.linkedin.com/in/rob-roffey"><img
       src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" 
       alt="LinkedIn button"/>
     </a>
+  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rob-r101&style=flat-square&color=orange" 
+    alt="Views Counter"/>
   </p>
 </h1>
 - 👋 Hi, I’m @Rob-R101
