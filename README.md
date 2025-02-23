@@ -23,12 +23,18 @@
     Hey, I'm Rob - Welcome to my GitHub profile
   </p>
 </h1>
-### 👨‍🦱 About Me:
+### 👨‍🦱 About Me: ###
+<br>
 - 👀 I’m interested in learning to code, gaming and spending time with my children. :)
+<br>
 - 🌱 I’m currently learning with LeWagon on a Full-Stack Software Developer course.
+<br>
 - 💞️ I’m looking to collaborate on learning!
-- 📫 How to reach me roffeyre@gmail.com
+<br>
+- 📫 How to reach me: roffeyre@gmail.com / www.linkedin.com/in/rob-roffey / www.robertroffey.uk
+<br>
 - 😄 Pronouns: He/Him
+<br>
 - ⚡ Fun fact: I worked as headteacher of two primary schools before deciding to switch careers!
 
 <!---
